@@ -1,2 +1,2 @@
 # dti-academy
-My first debut in DTI as web designer
+My first debut in DTI as a web designer
